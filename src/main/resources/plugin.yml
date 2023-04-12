@@ -1,0 +1,7 @@
+name: EZRename
+version: '${project.version}'
+main: cirosanchezb.ezrename.EZRename
+commands:
+  rename:
+    usage: /rename <Name>
+    description: Rename your hand item.
